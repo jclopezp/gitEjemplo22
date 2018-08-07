@@ -1,0 +1,48 @@
+@font-face{
+	font-family: "hanalei";
+	src: url("fonts/HanaleiFill/HanaleiFill-Regular.ttf");
+}
+
+@font-face{
+	font-family: "indie";
+	src: url("fonts/Indie_Flower/IndieFlower.ttf");
+}
+
+@font-face{
+	font-family: "kirang";
+	src: url("fonts/Kirang_Haerang/KirangHaerang-Regular.ttf");
+}
+
+@font-face{
+	font-family: "pacifico";
+	src: url("fonts/Pacifico/Pacifico-Regular.ttf");
+}
+
+@font-face{
+	font-family: "gabriela";
+	src: url("fonts/Gabriela/Gabriela-Regular.ttf");
+}
+
+.icono-3d{
+	font-size: 160px;
+	color: red;
+
+}
+
+h1{
+	font-family: hanalei;
+}
+
+h2{
+	font-family: indie;
+}
+h3{
+	font-family: kirang;
+}
+h4{
+	font-family: pacifico;
+}
+
+h5{
+	font-family: gabriela;
+}
